@@ -56,12 +56,7 @@ Here's a screenshot of the application interface:
 
 ![Mobile Tracking System Screenshot](1.png)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Java Swing for the graphical user interface.
 - Java 8+ for building and running the application.
-``` 
